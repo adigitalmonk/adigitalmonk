@@ -17,4 +17,3 @@ Here's a few that I had fun putting together.
 - [adigitalmonk/aurea](https://github.com/adigitalmonk/aurea)
 - [adigitalmonk/cola](https://github.com/adigitalmonk/cola)
 - [adigitalmonk/twenty-one](https://github.com/adigitalmonk/twenty-one)
-- [adigitalmonk/advent_of_code.rs](https://github.com/adigitalmonk/advent_of_code.rs)
